@@ -210,7 +210,7 @@ Statistics & Data Science Enthusiast
 AI / ML / Computer Vision Projects
 
 GitHub: https://github.com/abdul-razzaq-au
-
+HuggingFace Space: https://huggingface.co/spaces/armaaz/smart-vision-ai
 ---
 
 # 📌 Future Improvements
