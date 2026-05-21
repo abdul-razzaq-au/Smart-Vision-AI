@@ -19,7 +19,7 @@ Upload an image and detect objects using YOLO.
 # =====================================================
 
 model = YOLO(
-    "models/yolo_runs/yolov8n_detection/weights/best.pt"
+    "models/yolo_runs/yolov8m_detection/weights/best.pt"
 )
 
 # =====================================================
